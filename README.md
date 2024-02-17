@@ -17,6 +17,8 @@ System tables reflect the spending on the compute cluster level. Setting up stan
 3. Publish to Power BI Service
 4. Start cost analysis and cross
 5. (Customize if applicable)
+### Youtube Tutorial on Setup
+[![How to set up](https://img.youtube.com/vi/tTbngPbldzY/0.jpg)](https://www.youtube.com/watch?v=tTbngPbldzY)
 
 
 ## Roadmap Items
