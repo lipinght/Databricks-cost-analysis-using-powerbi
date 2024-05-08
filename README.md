@@ -20,6 +20,12 @@ System tables reflect the spending on the compute cluster level. Setting up stan
 ### Youtube Tutorial on Setup
 [![How to set up](https://img.youtube.com/vi/tTbngPbldzY/0.jpg)](https://www.youtube.com/watch?v=tTbngPbldzY)
 
+### Youtube Tutorial on Report Navigation
+💡 How to set up lookup tables
+💡 How to do root cause analysis
+💡 How to productionize the template
+[![How to navigate report](https://img.youtube.com/vi/sF8JaF8l4Lg/0.jpg)](https://www.youtube.com/watch?v=sF8JaF8l4Lg)
+
 
 ## Roadmap Items
 * Expand the list of available KPIs in the semantic model. Add calculations like YTD and MTD DBUs and $DBUs
