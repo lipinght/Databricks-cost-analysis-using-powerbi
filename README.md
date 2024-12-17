@@ -25,7 +25,7 @@ System tables reflect the spending on the compute cluster level. Setting up stan
 💡 How to set up lookup tables
 💡 How to do root cause analysis
 💡 How to productionize the template
-[![How to navigate report]([https://img.youtube.com/vi/uj9_qZZVgtk/0.jpg)](https://www.youtube.com/watch?v=uj9_qZZVgtk)
+[![How to navigate report](https://img.youtube.com/vi/uj9_qZZVgtk/0.jpg)](https://www.youtube.com/watch?v=uj9_qZZVgtk)
 
 ### Youtube Tutorial on Customization
 💡 How to do multi-tag analysis
